@@ -1,4 +1,4 @@
-//hammingcode for a binary string of any length 
+##hammingcode for a binary string of any length 
 
 import random
 msg=input("Enter data to be sent : ")
